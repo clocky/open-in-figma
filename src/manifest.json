@@ -17,6 +17,7 @@
   "author": "Fabrizio Rinaldi @linuz90",
   "permissions": [
     "webRequest",
+    "*://*.figma.com/",
     "webRequestBlocking",
     "\u003Call_urls\u003E",
     "tabs"
